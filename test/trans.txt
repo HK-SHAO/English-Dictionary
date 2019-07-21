@@ -1,0 +1,1 @@
+{'word': 'fly', 'ying_yb': '[flaɪ]', 'mei_yb': '[flaɪ]', 'bianxing': '复数  flies  过去式  flew  过去分词  flown  现在分词  flying '}
